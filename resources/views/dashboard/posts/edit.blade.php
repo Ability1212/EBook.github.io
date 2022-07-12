@@ -91,7 +91,7 @@
                 </div>
             </div>
 
-            <a href="/dashboard/posts/" class="btn btn-dark mb-3"><span data-feather="arrow-left"></span> Back</a>
+            <a href="/dashboard/posts/" class="btn btn-dark mb-3"><span data-feather="arrow-left"></span> Cancel</a>
             <button type="submit" class="btn btn-primary mb-3">Update Post</button>
         </form>
     </div>

@@ -32,7 +32,7 @@
                 @enderror
             </div>
 
-            <a href="/dashboard/categories/" class="btn btn-dark mb-3"><span data-feather="arrow-left"></span> Back</a>
+            <a href="/dashboard/categories/" class="btn btn-dark mb-3"><span data-feather="arrow-left"></span> Cancel</a>
             <button type="submit" class="btn btn-primary mb-3">Update Category</button>
         </form>
     </div>
